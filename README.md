@@ -1,6 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeanHnter&show_icons=true&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeanHnter&theme=merko&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHnter&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DeanHnter/DeanHnter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
