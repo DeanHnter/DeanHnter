@@ -1,10 +1,11 @@
-## Hi, I am Dean Hunter! 
+## Welcome
+
 </br>
 
  <div>
   <a href="https://github.com/DeanHnter">
-   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeanHnter&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeanHnter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeanHnter&layout=compact&langs_count=16&theme=merko"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeanHnter&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
