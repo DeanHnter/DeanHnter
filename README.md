@@ -27,7 +27,6 @@
 
 ## Survey 
 <div> 
- ![test](https://badgen.net/badge/:Survey/:Alive/:purple?icon=github)
  </br>
 </br>
 
@@ -35,3 +34,4 @@
   ![Snake animation](https://github.com/DeanHnter/DeanHnter/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ ![test](https://badgen.net/badge/:Survey/:Alive/:purple?icon=github)
