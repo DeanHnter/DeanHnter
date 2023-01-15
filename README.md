@@ -27,6 +27,7 @@
 
 ## Survey 
 <div> 
+<a href="https://uow-survey.onlinesurveys.ac.uk/code-comment-evaluation-survey-n1"><img src="https://img.shields.io/badge/Survey-Available-2ea44f" alt="Survey - Available"></a>
  </br>
 </br>
 
@@ -34,4 +35,3 @@
   ![Snake animation](https://github.com/DeanHnter/DeanHnter/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- ![test](https://badgen.net/badge/:Survey/:Alive/:purple?icon=github)
