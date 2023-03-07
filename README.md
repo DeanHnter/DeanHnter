@@ -33,6 +33,6 @@
 
 # About Me
 
-My name is Dean, and I'm a DevOps engineer with a passion for programming and machine learning. I enjoy working with cloud infrastructure and automating tasks. My skillset encompasses everything from coding to network engineering and machine learning.
+I'm a DevOps engineer with a passion for programming and machine learning. I enjoy working with cloud infrastructure and automating tasks. My skillset encompasses everything from coding to network engineering and machine learning.
 
 Currently, I am working on natural language systems to correct code. I'm focused on developing algorithms that can identify, correct errors or make suggestions for code. My goal is to create systems that can be used by developers to ensure code quality and accuracy.
