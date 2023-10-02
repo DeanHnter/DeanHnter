@@ -33,6 +33,6 @@
 
 # About Me
 
-I'm a DevOps engineer with a passion for programming and machine learning. I enjoy working with cloud infrastructure and automating tasks. My skillset encompasses everything from coding to network engineering and machine learning.
+As a DevOps Engineer specializing in both programming and machine learning, I take pride in intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible. My skills are broad yet deep, extending from software development to network engineering, with a keen focus on machine learning.
 
-Currently, I am working on natural language systems to correct code. I'm focused on developing algorithms that can identify, correct errors or make suggestions for code. My goal is to create systems that can be used by developers to ensure code quality and accuracy.
+Presently, I am engaged in the exploration and development of natural language systems aimed at code correction. This endeavor involves creating sophisticated algorithms that not only identify and rectify errors in code but also provide suggestive alternatives. The ultimate goal is to produce robust systems that aid developers in maintaining and enhancing code quality and precision.
