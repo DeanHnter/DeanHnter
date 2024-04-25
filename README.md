@@ -1,5 +1,5 @@
 ## Welcome To My GitHub Profile! 👋 
-![Profile Views](https://komarev.com/ghpvc/?username=DeanHnter)
+![Profile Views](https://komarev.com/ghpvc/?username=DeanHnter&color=blueviolet)
 
 <div align="center">
 
