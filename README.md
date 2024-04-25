@@ -3,10 +3,20 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeanHnter&layout=compact&langs_count=16&theme=merko)](https://github.com/DeanHnter/github-readme-stats)
-![Dean's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeanHnter&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues)
+<p><b>Most Used Languages:</b></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deanhnter&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
+
+<p><b>GitHub Stats:</b></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deanhnter&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+
+<p><b>Contribution Streak:</b></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deanhnter&theme=tokyonight" alt="Contribution Streak"/>
+
+<p><b>Achievements:</b></p>
+<img src="https://github-profile-trophy.vercel.app/?username=deanhnter&theme=juicyfresh&no-bg=true" />
 
 </div>
+
 
 ## Skills 🚀
 
@@ -26,8 +36,9 @@
 
 ## About Me 🕴🏻
 
-I'm a *AI Platform Engineer* @CoreView specializing in **programming** and **machine learning**, with a passion for intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible. 
+I am an *AI Platform Engineer* at @CoreView, specializing in **real-time programming**, **machine learning**, **platform engineering**. My passion lies in intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible.
 
-Other than platform engineering & deveops I have a varied background in developing production grade low-level applications in c/c++, integrating machine learning technologies with existing systems and facial detection/recognition systems.
+Beyond platform engineering and DevOps, I have extensive experience in developing production-grade low-level applications in C/C++, integrating machine learning technologies with existing systems, and working on facial detection/recognition systems.
 
-At this time, I am engaged in the exploration and development of **natural language systems aimed at improving developer productivity**. The ultimate goal is to produce robust systems that aid developers in maintaining and enhancing code quality and precision.
+Currently, I am focused on the exploration and development of **natural language systems aimed at improving developer productivity**. The ultimate goal is to create robust systems that assist developers in maintaining and enhancing the quality and precision of their code.
+
