@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deanhnter&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
 
 <p><b>GitHub Stats:</b></p>
-![Dean's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeanHnter&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeanHnter&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues" alt="Dean's GitHub Stats"/>
 
 
 <p><b>Contribution Streak:</b></p>
