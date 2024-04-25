@@ -19,7 +19,6 @@
   <img align="center" alt="CMake" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cmake/cmake-original.svg" height="40" width="40">
   <img align="center" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="40" width="40">
   <img align="center" alt="AZ Devops" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-plain.svg" height="40" width="40">
-  <img align="center" alt="AZ Devops" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-plain.svg" height="40" width="40">
   <img align="center" alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-plain.svg" height="40" width="40">
 </div>
 
