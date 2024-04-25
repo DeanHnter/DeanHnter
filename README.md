@@ -39,7 +39,7 @@
 
 I am an *AI Platform Engineer* at @CoreView, specializing in **real-time programming**, **machine learning**, **platform engineering**. My passion lies in intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible.
 
-Beyond platform engineering and DevOps, I have extensive experience in developing production-grade low-level applications in C/C++, integrating machine learning technologies with existing systems, and working on facial detection/recognition systems.
+Beyond **Platform Engineering** and **DevOps Engineering**, I have extensive experience in developing production-grade low-level applications in C/C++, integrating machine learning technologies with existing systems, and working on facial detection/recognition systems.
 
 Currently, I am focused on the exploration and development of **natural language systems aimed at improving developer productivity**. The ultimate goal is to create robust systems that assist developers in maintaining and enhancing the quality and precision of their code.
 
