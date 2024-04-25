@@ -14,7 +14,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanhnter&theme=tokyonight" alt="Contribution Streak"/>
 
 <p><b>Achievements:</b></p>
-<img src="https://github-profile-trophy.vercel.app/?username=deanhnter&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=deanhnter&theme=tokyonight&no-bg=true" />
 
 </div>
 
