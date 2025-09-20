@@ -1,4 +1,4 @@
-## Welcome To My GitHub Profile! 👋 
+## Welcome To My GitHub
 ![Profile Views](https://komarev.com/ghpvc/?username=DeanHnter&color=blueviolet)
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 
-## Skills 🚀
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GoLang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" width="40">
@@ -32,9 +32,9 @@
 
 <br>
 
-## About Me 🕴🏻
+## About Me
 
-I am an *AI Platform Engineer* at @CoreView, specializing in **real-time programming**, **machine learning**, **platform engineering**. My passion lies in intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible.
+I am an *Platform Engineer* at @CoreView, specializing in **real-time programming**, **machine learning**, **platform engineering**. My passion lies in intricately crafting cloud infrastructures, streamlining operations, and automating tasks wherever possible.
 
 Beyond **Platform Engineering** and **DevOps Engineering**, I have extensive experience in developing production-grade low-level applications in C/C++, integrating machine learning technologies with existing systems, and working on facial detection/recognition systems.
 
